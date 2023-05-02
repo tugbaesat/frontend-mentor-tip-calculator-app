@@ -1,0 +1,5 @@
+.bill-input {
+    background-image: url("images/icon-dollar.svg");
+    background-color: hsl(189, 41%, 97%);
+    text-align: right;
+}
